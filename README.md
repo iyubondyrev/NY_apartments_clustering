@@ -1,4 +1,6 @@
-This is a clustering of New York apartments from the New York City Airbnb Open Data dataset, using various algorithms of clustering such as: K-means, DBSCAN, Birch and others, and different methods of dimension reducing such as: UMAP, t-SNE and others. Followed by interactive visualizations using the plotly library
+This is a clustering of New York apartments from the New York City Airbnb Open Data dataset, using various algorithms of clustering such as: K-means, DBSCAN, Birch and others, and different methods of dimension reducing such as: UMAP, t-SNE and others. Followed by interactive visualizations using the plotly library.
+
+Colab links: [NY_MAP](https://colab.research.google.com/drive/1Ml5o78kOKWqj_mE3hlNPmQ-ZTBPP_tCE?usp=sharing#scrollTo=9ON8r8m0HcJf), [NY_CLUSTERING](https://colab.research.google.com/drive/1xBZiwsBesyG3_dUbZTI8vX_tXgQ5iDT7?usp=sharing#scrollTo=0RCJJ8yu1I0x)
 
 Some Images:
 
